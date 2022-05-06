@@ -4,8 +4,22 @@
  
  ## Algorithm:
  ### Step1:
- 
- 
+Start.
+
+ ### Step2:
+Create a class and a constructor.
+
+ ### Step3:
+Get name, designation, noofexperience, basic salary and insurance amount from the User.
+
+ ### Step4:
+Call salary method in constructor to calculate salary.
+
+ ### Step5:
+Call display method to display the output.
+
+ ### Step6:
+stop.
  
  ## Program:
  ```python
@@ -57,3 +71,4 @@ namespace Hello
 
  
  ## Result:
+Thus the C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
